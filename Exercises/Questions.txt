@@ -1,0 +1,12 @@
+1. Create your own "bodyParser" for POST/PUT method.
+Example: JSON data
+Request:
+{
+   username:'ashish',
+   password:'why#should#i#tell#you'
+}
+Response:
+{
+    status:200,
+    message:'successfully login'
+}
